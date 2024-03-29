@@ -40,5 +40,3 @@ def contact_plot_PF00014(other_contacts, true_positives, false_positives):
     ax.text(57, 52, 'Other contacts', ha='left', va='center', **mp.def_labelprops)
     ax.text(57, 48, 'True positives', ha='left', va='center', **mp.def_labelprops)
     ax.text(57, 44, 'False positives', ha='left', va='center', **mp.def_labelprops)
-
-    plt.show()
