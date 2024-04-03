@@ -76,7 +76,7 @@ textcolor    = defcolor
 #sizeline     = 1
 
 #slides/poster
-fontfamily   = 'Arial' #'Avenir'
+#fontfamily   = 'Arial' #'Avenir'
 sizesublabel = 18 #24
 sizetext     = 18 #24
 sizelabel    = 18 #24
@@ -86,13 +86,13 @@ axwidth      = 1.5
 sizeline     = 3.0
 
 def_labelprops = {
-    'family' : fontfamily,
+    #'family' : fontfamily,
     'size'   : sizelabel,
     'color'  : textcolor
     }
 
 def_sublabelprops = {
-    'family' : fontfamily,
+    #'family' : fontfamily,
     'size'   : sizesublabel,
     'weight' : 'bold',
     'ha'     : 'center',
@@ -101,7 +101,7 @@ def_sublabelprops = {
     }
 
 def_ticklabelprops = {
-    'family' : fontfamily,
+    #'family' : fontfamily,
     'size'   : sizetick,
     'color'  : textcolor
     }
