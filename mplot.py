@@ -76,7 +76,7 @@ textcolor    = defcolor
 #sizeline     = 1
 
 #slides/poster
-fontfamily   = 'Avenir'
+fontfamily   = 'Arial' #'Avenir'
 sizesublabel = 18 #24
 sizetext     = 18 #24
 sizelabel    = 18 #24
